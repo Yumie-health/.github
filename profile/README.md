@@ -35,7 +35,7 @@ Yumie™ is an intelligent calorie tracking app that combines the power of AI wi
 
 ## 🛠️ Development
 
-Our development team at mAIenX™ is passionate about creating innovative health technology solutions. We believe in:
+Our development team at mAIvenX™ is passionate about creating innovative health technology solutions. We believe in:
 
 - **Clean Code**: Well-structured, maintainable codebase
 - **User-Centric Design**: Intuitive and accessible user experiences
