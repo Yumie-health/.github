@@ -1,4 +1,4 @@
-# 🥗 Yumie™ - Calorie Tracker
+# 🥗 Yumie™ - Calorie Tracker by mAIenX™
 
 > **Personalized Food AI Tracker** - Making healthy eating effortless with AI-powered nutrition insights
 
@@ -6,9 +6,9 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Hosted-orange.svg)](https://firebase.google.com/)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey.svg)](https://flutter.dev/)
 
-## 🌟 About Yumie
+## 🌟 About Yumie™
 
-Yumie is an intelligent calorie tracking app that combines the power of AI with intuitive design to help you achieve your health and nutrition goals. Our mission is to make healthy eating accessible, enjoyable, and sustainable for everyone.
+Yumie™ is an intelligent calorie tracking app that combines the power of AI with intuitive design to help you achieve your health and nutrition goals. Our mission is to make healthy eating accessible, enjoyable, and sustainable for everyone.
 
 ### ✨ Key Features
 
@@ -35,7 +35,7 @@ Yumie is an intelligent calorie tracking app that combines the power of AI with 
 
 ## 🛠️ Development
 
-Our development team is passionate about creating innovative health technology solutions. We believe in:
+Our development team at mAIenX™ is passionate about creating innovative health technology solutions. We believe in:
 
 - **Clean Code**: Well-structured, maintainable codebase
 - **User-Centric Design**: Intuitive and accessible user experiences
@@ -48,7 +48,7 @@ We're always looking for talented developers, designers, and health enthusiasts 
 
 ## 📄 License
 
-© 2024 Yumie™ - All rights reserved. Made with ❤️ for better health.
+© 2024 mAIenX™ - All rights reserved. Made with ❤️ for better health.
 
 ---
 
