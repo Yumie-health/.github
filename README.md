@@ -12,7 +12,7 @@ Yumie™ is an intelligent calorie tracking app that combines the power of AI wi
 
 ### ✨ Key Features
 
-- **🤖 AI-Powered Food Recognition** - Simply take a photo of your meal and let our AI identify and log it automatically
+- **🤖 AI-Powered Food Recognition** - Simply take a photo of your meal, fridge or barcode and let our AI identify and log it automatically
 - **📊 Smart Nutrition Tracking** - Track calories, macros, and micronutrients with detailed insights
 - **🎯 Personalized Goals** - Set and track custom nutrition goals based on your lifestyle and objectives
 - **📱 Cross-Platform** - Seamless experience across iOS and Android devices
